@@ -1,2 +1,13 @@
 # w3man
-A CLI for html tag dictionary.Under development...Made with love in py...Devs help me by contibuting to this project
+A CLI for html tag dictionary
+
+Under development :alembic:
+
+Made with love in py
+## 🖤 Show your support
+
+Give a ⭐ if this you find this project useful!
+
+## Contribution
+
+PRs and Suggestions are highly appreciated. 
